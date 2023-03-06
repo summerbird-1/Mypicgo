@@ -1,0 +1,2 @@
+# Mypicgo
+Github图床
